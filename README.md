@@ -33,6 +33,8 @@
 ### Streak Widget
 -I have made a Streak widget that is a small widget where the user can view their streak from their homescreen (StreakWidget folder) the functionality is fine but the looks is kinda bad but it is what it is i wanted to make it like the duolingo streak widget but its whatever.
 
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/StreakWidgetRD.jpg" alt="MainScreenImage" width="300" />
+
 ## AudioBooks 
 -I added a seperate black button on the MainScreen.swift that when clicked, the user can search for book titles in a search bar and can add books into this distinct audiobook section (AudioBooksSection.swift), (you cant scan audiobooks so i had to do a search bar) this way the paperback books and audiobooks are seperated so the user knows which is which.
 

@@ -38,7 +38,7 @@ struct StatsScreen: View {
                             // Total Hours Summary
                             totalHoursSummary
                             
-                            // Most Read Book Card (New Card)
+                            // Most Read Book Card 
                             mostReadBookCard
                             
                             // Timer Control Buttons
@@ -194,7 +194,7 @@ struct StatsScreen: View {
         timer?.invalidate()
         timer = nil
         
-        // Store the current elapsed time
+        // Store the current time that has elapsed 
         isPaused = true
         isTimerRunning = false
     }

@@ -15,7 +15,6 @@
 
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanAddRD.jpg" alt="MainScreenImage" width="300" />
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanningAddRD.jpg" alt="MainScreenImage" width="300" />
-<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/AddBookRD.jpg" alt="MainScreenImage" width="300" />
 
 ## Book Catagories
 -The user can catagorize their books into "To Be Read", "Completed", "Currently Reading" and also view their all of their books with the "All" button these 4 buttons when clicked upon takes the user to the BookSection.swift, LibrarySection.swift, LibrarySection.swift & ToBeRead.swift where the user can from there add a book to the different catagories with the 5 small buttons and the user can also access the books image, title, descripton by clicking on the book card in the booksection where the user can change the status of the book, add it to the wishlist or add a journal entry.    

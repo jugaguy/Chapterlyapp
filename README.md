@@ -14,6 +14,7 @@
 -The user can add a book by clicking the plus button where they can manually add a book in the AddBookSection.swift or scan the book barcode with the ScannerView.swift, for the scanning i used google books api to access the database of books that adds the book into the library. 
 
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanAddRD.jpg" alt="MainScreenImage" width="300" />
+
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanningAddRD.jpg" alt="MainScreenImage" width="300" />
 
 ## Book Catagories

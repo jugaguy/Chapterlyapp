@@ -9,6 +9,10 @@
 ## Navigation bar
 -There are 4 parts in the navigation bar, one for the MainScreen.swift indicated by the house icon, one for the StatsScreen.swift indicated by the stat icon, one for the JournalsScreen.swift indicated by the book and one for the SettingsSreen.swift indicated by the cog icon.
 
+-MainScreen Image:
+![Alt text](Chapterlyapp/ChapterlyV2/ "Optional title")
+
+
 ## Adding a book
 -The user can add a book by clicking the plus button where they can manually add a book in the AddBookSection.swift or scan the book barcode with the ScannerView.swift, for the scanning i used google books api to access the database of books that adds the book into the library. 
 

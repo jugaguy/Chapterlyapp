@@ -38,6 +38,8 @@
 ## AudioBooks 
 -I added a seperate black button on the MainScreen.swift that when clicked, the user can search for book titles in a search bar and can add books into this distinct audiobook section (AudioBooksSection.swift), (you cant scan audiobooks so i had to do a search bar) this way the paperback books and audiobooks are seperated so the user knows which is which.
 
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/AudiobookRD.jpg" alt="MainScreenImage" width="300" />
+
 ## Expandables
 -Now lastly on the MainScreen.swift i added 4 expandables, the first is "Currently Reading" which when clicked on you can view all the books in your "librarySection" then i added "Journal entries" this is an expandable where the user can view the journal entries (basically notes) which can be created in the journals section i will talk about later. Then i added the Wishlist expandable where the user can view books they want to buy, and then i added "reading hours" expandable where the user can manually input hours and minutes read and view the amount of time read Daily, weekly and monthly and there is also a log of what days the user has read a book and for how long. (ReadingHoursViewModel & ReadingHoursTrackerView.swift) 
 

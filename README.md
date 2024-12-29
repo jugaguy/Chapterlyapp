@@ -53,9 +53,17 @@
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/StatsupRD.jpg" alt="MainScreenImage" width="300" />
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/StatsDownRD.jpg" alt="MainScreenImage" width="300" />
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/BLOGRD.jpg" alt="MainScreenImage" width="300" />
+
+## BookLog widget
+-i made an additional widget that serves as a view of the amount of time read of a specific book for the user to view on their homescreen (ReadingTimerWidget folder) it initially served the purpose to start the book timer on the homescreen/lockscreen but i could not get that feature to work unfortunately but this is a suitable conpromise. 
+
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/BLOGRD.jpg" alt="MainScreenImage" width="300" />
+
 # journals 
 
 -in this screen the user is shown all of their books in the library in a horizontal slide abd then a header under that saying "View journals" where they can can view all of the individual journals that the user has written, and if the user wants multiple journals for one book the user can click the book on the screen and click "add First entry" and the plus icon after the first entry 
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/JournalENTDRD.jpg" alt="MainScreenImage" width="300" />
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/JournalENTRD.jpg" alt="MainScreenImage" width="300" />
 
 # Settings
 

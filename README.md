@@ -10,7 +10,7 @@
 -There are 4 parts in the navigation bar, one for the MainScreen.swift indicated by the house icon, one for the StatsScreen.swift indicated by the stat icon, one for the JournalsScreen.swift indicated by the book and one for the SettingsSreen.swift indicated by the cog icon.
 
 -MainScreen Image:
-![MainScreenImage](ChapterlyV2/Assets.xcassets/ReadmeIG/MainScreenRD.jpg)
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/MainScreenRD.jpg" alt="MainScreenImage" width="300" />
 
 
 ## Adding a book

@@ -14,7 +14,7 @@
 
 ## Streak Feature
 -Underneath these 4 category buttons the user can view their reading streak (StreakViewModel & StreakCard in MainScreen.swift) where they can see the consecutive days they have read in order to build a reading habit, and when the user clicks this card they are taken to a mini quiz (RecommendationScreen.swift) where the user selects their favourite genres and reading moods and then gets a few recommendations that they can add to their ToBeReadSection.swift 
-## Streak Widget
+### Streak Widget
 -I have made a Streak widget that is a small widget where the user can view their streak from their homescreen (StreakWidget folder) the functionality is fine but the looks is kinda bad but it is what it is i wanted to make it like the duolingo streak widget but its whatever.
 
 ## AudioBooks 

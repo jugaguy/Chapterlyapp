@@ -14,14 +14,19 @@
 -The user can add a book by clicking the plus button where they can manually add a book in the AddBookSection.swift or scan the book barcode with the ScannerView.swift, for the scanning i used google books api to access the database of books that adds the book into the library. 
 
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanAddRD.jpg" alt="MainScreenImage" width="300" />
-<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanningAddRD.jpg" alt="MainScreenImage" width="300" />
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanningAddRD.jpg" alt="ScanningImage" width="300" />
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/AddScanRD.jpg" alt="AddBookView.swift" width="300" />
 
 ## Book Catagories
 -The user can catagorize their books into "To Be Read", "Completed", "Currently Reading" and also view their all of their books with the "All" button these 4 buttons when clicked upon takes the user to the BookSection.swift, LibrarySection.swift, LibrarySection.swift & ToBeRead.swift where the user can from there add a book to the different catagories with the 5 small buttons and the user can also access the books image, title, descripton by clicking on the book card in the booksection where the user can change the status of the book, add it to the wishlist or add a journal entry.    
 
+
+
 ## Streak Feature
 -Underneath these 4 category buttons the user can view their reading streak (StreakViewModel & StreakCard in MainScreen.swift) where they can see the consecutive days they have read in order to build a reading habit, and when the user clicks this card they are taken to a mini quiz (RecommendationScreen.swift) where the user selects their favourite genres and reading moods and then gets a few recommendations that they can add to their ToBeReadSection.swift 
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/Recco1RD.jpg" alt="MainScreenImage" width="300" />
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/Recco2RD.jpg" alt="MainScreenImage" width="300" />
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/Recco3RD.jpg" alt="MainScreenImage" width="300" />
 ### Streak Widget
 -I have made a Streak widget that is a small widget where the user can view their streak from their homescreen (StreakWidget folder) the functionality is fine but the looks is kinda bad but it is what it is i wanted to make it like the duolingo streak widget but its whatever.
 

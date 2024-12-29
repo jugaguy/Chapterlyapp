@@ -28,17 +28,14 @@
 
 # StatsScreen
 
-##
 -In the StatsScreen.swift the user can see 3 tabs at the top of the page that says "Day", "Week", "Month" then there is a card that displays the users total reading time for the day, week or month with the average amount read daily and the longest reading session the user has had, thne underneath that i added a "currently reading" card with a start tumer and stop timer button underneath and this allows a user to track the time spent reading a certain book which they can track by clicking on this card and clicking track on any book that is in the users library, and the user can also check the amount of hours and minutes read of a specific book and the days and time the user has read that book and for how long by clicking "Book log". Then there is a graph that displays the users activity and another "reading sessions" log displaying the users reading log. 
 
 # journals 
 
-## 
 -in this screen the user is shown all of their books in the library in a horizontal slide abd then a header under that saying "View journals" where they can can view all of the individual journals that the user has written, and if the user wants multiple journals for one book the user can click the book on the screen and click "add First entry" and the plus icon after the first entry 
 
 # Settings
 
-##
 -In settingsScreen.swift there are just 4 buttons, one is to clear all of the books, one is to reset the statistics and the other is to reset all journals and i have an extra button for the user to leave a review since i plan to put this out on the app store.
 
 

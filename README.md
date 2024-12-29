@@ -62,6 +62,7 @@
 # journals 
 
 -in this screen the user is shown all of their books in the library in a horizontal slide abd then a header under that saying "View journals" where they can can view all of the individual journals that the user has written, and if the user wants multiple journals for one book the user can click the book on the screen and click "add First entry" and the plus icon after the first entry 
+
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/JournalENTDRD.jpg" alt="MainScreenImage" width="300" />
 <img src="ChapterlyV2/Assets.xcassets/ReadmeIG/JournalENTRD.jpg" alt="MainScreenImage" width="300" />
 

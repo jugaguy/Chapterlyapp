@@ -57,7 +57,7 @@
 ## BookLog widget
 -i made an additional widget that serves as a view of the amount of time read of a specific book for the user to view on their homescreen (ReadingTimerWidget folder) it initially served the purpose to start the book timer on the homescreen/lockscreen but i could not get that feature to work unfortunately but this is a suitable conpromise. 
 
-<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/BLOGRD.jpg" alt="MainScreenImage" width="300" />
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/BookLogWidgetRD.jpg" alt="MainScreenImage" width="300" />
 
 # journals 
 

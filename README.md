@@ -13,6 +13,10 @@
 ## Adding a book
 -The user can add a book by clicking the plus button where they can manually add a book in the AddBookSection.swift or scan the book barcode with the ScannerView.swift, for the scanning i used google books api to access the database of books that adds the book into the library. 
 
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanAddRD.jpg" alt="MainScreenImage" width="300" />
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/ScanningAddRD.jpg" alt="MainScreenImage" width="300" />
+<img src="ChapterlyV2/Assets.xcassets/ReadmeIG/AddBookRD.jpg" alt="MainScreenImage" width="300" />
+
 ## Book Catagories
 -The user can catagorize their books into "To Be Read", "Completed", "Currently Reading" and also view their all of their books with the "All" button these 4 buttons when clicked upon takes the user to the BookSection.swift, LibrarySection.swift, LibrarySection.swift & ToBeRead.swift where the user can from there add a book to the different catagories with the 5 small buttons and the user can also access the books image, title, descripton by clicking on the book card in the booksection where the user can change the status of the book, add it to the wishlist or add a journal entry.    
 
